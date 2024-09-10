@@ -1,15 +1,31 @@
-# user-signup-form
+# User SignUp Form
 
 Coding Assessment for TST
+
+## Assessment
+
+EXERCISE MUST BE DONE IN ReactJS using hooks
+
+Please create a user signup form prototype. Preference is for the code to be done using ReactJS. TST is currently utilizing ReactJS with hooks (latest version they know) for development. \*\*Tell them not to overengieer the exercise. TST likes devs who try to find the simplest way to solve problems. because there is no database, use what resources you have and persist in local storage or session storage
+
+The requirements are:
+
+1. create a form with 3 input fields, for the username, password and confirm password respectively
+
+2. persist the state of the input fields entries
+
+3. the password and confirm password input field should validate their entries by comparing both values
+
+4. output to the user when both fields match or don’t match
+
+5. bonus would be to style the form
+
+## Results
 
 ![Result Image 01](./01.png)
 ![Result Image 02](./02.png)
 ![Result Image 03](./03.png)
 ![Result Image 04](./04.png)
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -47,28 +63,6 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
